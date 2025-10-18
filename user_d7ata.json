@@ -1,0 +1,41 @@
+{
+    "8218301960": {
+        "templates": {},
+        "known_chats": {},
+        "broadcasting": {
+            "active": true,
+            "step": "template_pattern",
+            "templates": [
+                {
+                    "text": "@ocdtr\n\nسعرك"
+                }
+            ],
+            "interval": 120,
+            "groups": [
+                "channel:1962178913",
+                "channel:2893406031"
+            ],
+            "last_msg_id": []
+        },
+        "scheduling": {
+            "active": true,
+            "step": "interval",
+            "templates": [
+                {
+                    "text": "تس"
+                },
+                {
+                    "text": "bsbs"
+                },
+                {
+                    "text": "vshs"
+                }
+            ],
+            "interval": null,
+            "count": null,
+            "last_msg_id": [
+                2101
+            ]
+        }
+    }
+}
